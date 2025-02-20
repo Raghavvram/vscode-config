@@ -77,7 +77,7 @@
   "editor.fontFamily": "CodeNewRoman Nerd Font",
   "editor.fontSize": 14,
   "editor.fontLigatures": true,
-  "editor.lineHeight": 2.5,
+  "editor.lineHeight": 2,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -100,7 +100,7 @@
   "files.insertFinalNewline": true,
   "scm.diffDecorations": "none",
   "editor.lineNumbers": "relative",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.detectIndentation": false,
   "editor.showFoldingControls": "never",
   "editor.guides.indentation": false,
